@@ -46,4 +46,4 @@ The app runs locally at `http://localhost:3000`.
 - Names are collected with `prompt()`, which is intentional for this assignment but limited compared to custom form inputs.
 
 ## Live URL
-Not deployed yet.
+https://jithendranageswarareddy.github.io/country_manager/
